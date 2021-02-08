@@ -1,13 +1,28 @@
 body {
-    background: #cbedb5;
-    padding-top: 25px;
+  background: #cbedb5;
+  padding-top: 25px;
 }
 
 .main-image {
-    max-width: 100%;
+  max-width: 100%;
+  height: 300px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 5px 5px 10px #aaaaaa;
 }
 
 .pet-image {
-    width: 30px;
-    height: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.click-bg-color {
+  background-color: #fff;
+  color: #004440 !important;
+}
+
+tbody tr {
+  cursor: pointer;
 }
