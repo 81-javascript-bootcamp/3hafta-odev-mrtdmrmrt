@@ -1,0 +1,25 @@
+{
+  "name": "3hafta-odev-mrtdmrmrt",
+  "version": "1.0.0",
+  "description": "[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4073189&assignment_repo_type=AssignmentRepo) ### Odev",
+  "main": "script-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel serve index.html",
+    "prod":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/81-javascript-bootcamp/3hafta-odev-mrtdmrmrt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/81-javascript-bootcamp/3hafta-odev-mrtdmrmrt/issues"
+  },
+  "homepage": "https://github.com/81-javascript-bootcamp/3hafta-odev-mrtdmrmrt#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
