@@ -11,6 +11,7 @@ bonus
 
 ### Parcel.js Gücü Adına
 -Projemi Parcel.js ile ayağa kaldırdım
+
 -Cache sayesinde js ve css dosyalarım browserda tutuluyor ve buda hız sağlıyor
 -Projeyi ayağa kaldırmak için aşağıdaki adımları izleyiniz:
 ```
